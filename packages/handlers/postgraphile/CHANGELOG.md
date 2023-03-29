@@ -1,5 +1,16 @@
 # @graphql-mesh/postgraphile
 
+## 0.22.21
+
+### Patch Changes
+
+- Updated dependencies
+  [[`a1e08193b`](https://github.com/Urigo/graphql-mesh/commit/a1e08193be3ac8cab5f6f8c84025f934134369b6),
+  [`abc0c8747`](https://github.com/Urigo/graphql-mesh/commit/abc0c8747b274e011f5b8387233fe96d4f702035)]:
+  - @graphql-mesh/types@0.91.13
+  - @graphql-mesh/string-interpolation@0.4.4
+  - @graphql-mesh/utils@0.43.21
+
 ## 0.22.20
 
 ### Patch Changes

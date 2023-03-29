@@ -1,5 +1,21 @@
 # @graphql-mesh/raml
 
+## 0.11.0
+
+### Minor Changes
+
+- [#5261](https://github.com/Urigo/graphql-mesh/pull/5261)
+  [`a1e08193b`](https://github.com/Urigo/graphql-mesh/commit/a1e08193be3ac8cab5f6f8c84025f934134369b6)
+  Thanks [@ardatan](https://github.com/ardatan)! - `timeout` option for HTTP requests
+
+### Patch Changes
+
+- Updated dependencies
+  [[`a1e08193b`](https://github.com/Urigo/graphql-mesh/commit/a1e08193be3ac8cab5f6f8c84025f934134369b6)]:
+  - @graphql-mesh/types@0.91.13
+  - @omnigraph/raml@0.9.25
+  - @graphql-mesh/utils@0.43.21
+
 ## 0.10.24
 
 ### Patch Changes
