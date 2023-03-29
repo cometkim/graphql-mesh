@@ -1,5 +1,13 @@
 # @graphql-mesh/types
 
+## 0.91.13
+
+### Patch Changes
+
+- [#5261](https://github.com/Urigo/graphql-mesh/pull/5261)
+  [`a1e08193b`](https://github.com/Urigo/graphql-mesh/commit/a1e08193be3ac8cab5f6f8c84025f934134369b6)
+  Thanks [@ardatan](https://github.com/ardatan)! - `timeout` option for HTTP requests
+
 ## 0.91.12
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # mongoose-example
 
+## 0.5.348
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @graphql-mesh/cli@0.82.31
+
 ## 0.5.347
 
 ### Patch Changes
